@@ -37,11 +37,14 @@ In the AWS realm I've been mostly focussing on Data Infrastructure and Security.
 * VPC
 * EMR
 * RDS
-* AWS Kinesis Data Firehose
-* AWS Managed Streams for Kafka
+* Glue (particularly the Glue Data Catalog)
+* Secrets Manager
+* Simple Systems Manager
+* Kinesis Data Firehose
+* Managed Streams for Kafka
 * Lambda
 * Step Functions
-* S3
+* Amazon S3
 
 #### Programming Languages and More
 
