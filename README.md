@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Raffael Dzikowski and I'm a _senior data engineer_ currently based in Munich, Germany. I'm passionate about building Data Platforms in a cloud environment (currently AWS). I enjoy architecting and infrastructure work as well as building tools that make working with data easier for people for whom data engineering is not a main focus, the goal being that they can access the data lake and get the answers they need at the level of abstraction they are most comfortable with. The architectural paradigm I've been interested in lately, which enables this kind of approach without growing the data part of the organization out of proportion is the [Data Mesh Paradigm](https://martinfowler.com/articles/data-mesh-principles.html) proposed by ThoughtWorks.
 
 
-### Public Talks
+### 💬 Public Talks
 
 Here's a list of my public talks over the past few years
 
