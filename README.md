@@ -67,8 +67,9 @@ In the AWS realm I've been mostly focussing on Data Infrastructure and Security.
 * 🇵🇱 Polish (Native proficiency)
 * 🇩🇪 German (Native proficiency)
 * 🇫🇷 French (Elementary proficiency)
+* 🇮🇹 Italian (Elementary proficiency)
 
 ### 📫 Contact
 
 * [LinkedIn Profile](https://www.linkedin.com/in/raffaeldzikowski/)
-* [GitLab Profile](https://gitlab.com/raffael-dzikowski) (as of December 1st, 2021 I'll be using GitLab for professional projects but will keep contributing to open source projects here on GitHub)
+* As of December 1st, 2021 I'll be using GitLab for professional projects but will keep contributing to open source projects here on GitHub
