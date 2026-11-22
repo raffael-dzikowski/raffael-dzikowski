@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Raffael Dzikowski and I'm a _staff data platform engineer_ currently based in Munich, Germany. I'm passionate about building Data Platforms in a cloud environment (currently AWS). I enjoy architecting and infrastructure work as well as building tools that make working with data easier for people for whom data engineering is not a main focus, the goal being that they can access the data lake and get the answers they need at the level of abstraction they are most comfortable with. I also enjoy programming in general, especially in strongly typed programming languages. My favorite paradigm is functional programming, but I also enjoy languages that are closer to the computer architecture they run on, particularly modern ones. I'm currently heavily invested in learning Rust in that department.  
+My name is Raffael Dzikowski and I'm a _staff data platform engineer_ currently based in Munich, Germany. I'm passionate about building Data Platforms in a cloud environment. I like architecting and infrastructure work as well as building tools that make working with data easier for people for whom data engineering is not a main focus, the goal being that they can access the data lake and get the answers they need at the level of abstraction they are most comfortable with. Programming in general a pastime I derive a lot of satisfaction from, especially in strongly typed programming languages. My favorite paradigm is functional programming, but I also enjoy languages that are closer to the computer architecture they run on, particularly modern ones. I'm currently heavily invested in learning Rust in that department.  
 
 
 ### 💬 Public Talks
@@ -28,7 +28,7 @@ Here's a list of my public talks over the past few years
 
 ### 💻 Technologies
 
-I'm focused on AWS in the cloud realm and on Snowflake as a data platform. Other technologies and languages I'm familiar with are:
+I'm focused on AWS in the cloud realm and on Snowflake as a data platform. Other technologies and languages I'm knowledgeable about are:
 
 * Apache Spark
 * Apache Kafka
